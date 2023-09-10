@@ -1,0 +1,159 @@
+ @import url(https://fonts.googleapis.com/css2?family=Teko&display=swap%27);
+ @import url(https://fonts.googleapis.com/css2?family=Graduate&display=swap%27);
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{ 
+    font-size: 16px;
+    font-family: Teko;
+    font-style: normal;
+    background-color: rgb(117, 117, 117);
+}
+
+img{
+    width: 60px;
+    margin-right: 900px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
+
+.menu{
+    background-color: black ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: #00FF00;
+    margin: 10px;
+    font-size: 20px;
+}
+
+p{
+    margin: 8px;
+}
+
+.Eventos{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    font-family: 'Graduate', serif;
+    margin-top: 20px;
+    background-color: #00FF00;
+    margin: 0px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 5px 2px 2px black;
+
+}
+
+.Choppada{
+    background-color: #00FF00;
+    color: black;
+    font-family: Teko;
+    font-size: 20px;
+    width: 400px;
+    height: 330px;
+    margin-top: 50px;
+    margin-left: 230px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.img-choppada{
+    background-color: rgb(138, 140, 145);
+    height: 220px;
+    border-radius: 8px;
+}
+
+.img-chopp{
+    margin: 0px;
+    width: 400px;
+    height: 220px;
+}
+
+.duplicata-choppada{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Evento2{
+    font-size: 12px;
+    background-color: #00FF00;
+    color: black;
+    font-family: Teko;
+    font-size: 15px;
+    width: 400px;
+    height: 330px;
+    margin-top: 50px;
+    margin-right: 230px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+
+.Evento20{
+    background-color: rgb(138, 140, 145);
+    height: 220px;
+    border-radius: 8px;
+}
+
+.logo-choppada{
+    margin-top: 20%;
+    margin-left: 40%;
+}
+
+.duplicata-eventos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.Evento3{
+    background-color: #00FF00;
+    color: black;
+    font-family: Teko;
+    font-size: 20px;
+    width: 400px;
+    height: 330px;
+    margin-top: 50px;
+    margin-left: 230px;
+    text-align: center;
+    border-radius: 8px;
+}
+.Evento30{
+    background-color: rgb(138, 140, 145);
+    height: 220px;
+    border-radius: 8px;
+}
+
+.Evento4{
+    font-size: 12px;
+    background-color: #00FF00;
+    color: black;
+    font-family: Teko;
+    font-size: 15px;
+    width: 400px;
+    height: 330px;
+    margin-top: 50px;
+    margin-right: 230px;
+    text-align: center;
+    border-radius: 8px;
+
+}
+
+.Evento40{
+    background-color: rgb(138, 140, 145);
+    height: 220px;
+    border-radius: 8px;
+}
